@@ -6,7 +6,7 @@ const Question = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-white text-black p-4 font-poppins">
       <h1 className="text-[40px] font-bold text-center mb-4">
         Book Your Holiday with{" "}
-        <span style={{ color: "#DC143C" }}>Macchapucchre Dhital Homestay</span>
+        <span style={{ color: "#DC143C" }}>Machhapuchhre Dhital Homestay</span>
       </h1>
       <p className="text-[18px] text-center mb-8">
         Welcome to our family-run organic farm and retreat. <br />

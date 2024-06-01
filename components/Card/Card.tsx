@@ -3,7 +3,7 @@ import React from "react";
 import camping from "./camping.jpeg";
 import Image from "next/image";
 import food from "./food.jpg";
-
+import hiking from "./hiking.jpg";
 interface CardProps {
   title: string;
   description: string;
@@ -57,7 +57,7 @@ const App: React.FC = () => {
       title: "Hiking Services",
       description:
         "Explore the surrounding trails with our experienced guides and discover hidden gems along the way.",
-      imageSrc: camping,
+      imageSrc: hiking,
     },
   ];
   return (
