@@ -15,7 +15,7 @@ export default function Home() {
       <Number></Number>
       <Card></Card>
       <Display></Display>
-      {/* <Gallery></Gallery> */}
+      <Gallery></Gallery>
       <Question></Question>
       <Footer></Footer>
     </div>
