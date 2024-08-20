@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
         <div className="w-full md:w-1/4 mb-8 md:mb-0">
           <h3 className="text-lg font-bold mb-4">Contact Us</h3>
           <p className="text-sm mb-2">Email: info@example.com</p>
-          <p className="text-sm mb-4">Phone: +1 234 567 890</p>
+          <p className="text-sm mb-4">Phone: +977 9856030858</p>
           <div className="flex">
             <a href="#" className="mr-2">
               <FaFacebook className="text-[#4CC269] text-xl" />
